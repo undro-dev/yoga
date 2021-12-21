@@ -199,7 +199,7 @@ window.addEventListener('DOMContentLoaded', function () {
     }
   });
 
-  //calc
+  //calculator
 
   let persons = document.querySelectorAll('.counter-block-input')[0],
     restDays = document.querySelectorAll('.counter-block-input')[1],
